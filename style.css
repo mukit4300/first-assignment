@@ -84,14 +84,37 @@ h3{
     margin-left: -5px;
     background-color: red;
     border:2px solid red;
-    text-align: center;
 }
-.img{
-    width: 500px;
-    height: 500px;
-}
+
 h4{
     color: rgb(104, 53, 224);
+}
+.desc{
+    display: flex;
+    margin: 16px;
+}
+.half-width{
+
+    max-width: 35%;
+    float: left;
+}
+.charity{
+    width: 50%; 
+}
+.charity2{
+    max-width: 40%;
+    margin: 10%;
+}
+.mail{
+    padding-left: 300px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   
+}
+fieldset{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(241, 18, 204, 0.199);
 }
 
 
